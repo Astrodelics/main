@@ -8,3 +8,11 @@ y = 398
 b = -982
 
 print(x + y * b)
+
+your_class = input("what is your favorite class:")
+loud_version = your_class.upper()
+lower_version = your_class.lower()
+print(f"your favorite class is {loud_version} ")
+print(f"and the lower case version is {lower_version}")
+
+#this is just some string practice I was doing
